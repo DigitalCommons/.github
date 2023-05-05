@@ -27,7 +27,7 @@ Examples of current data sources for MykoMaps are:
 
 The data collection for Land Explorer is currently only the Land Registry data - this is converted into GeoJSON for Land Explorer to consume.
 
-**GitHub** 
+#### GitHub
 Here on Github itself we have a long list of projects. Notably:
 
 - MykoMap - an embeddable map of points with attributes, searchable and filterable - *Typescript/D3/Leaflet*
@@ -45,10 +45,10 @@ Here on Github itself we have a long list of projects. Notably:
 - shipshape - Mykomap config interrogation service - *Javascript/Gatsby/PHP*
 - hookrunner - minimal build service web server - *Javascript/PHP/Shell*
 
-**On WebArchitects**
+#### On WebArchitects
 - email/calendaring server, which handles DCC mail.
 
-**A Hetzner account.**
+#### A Hetzner account
 We have a Hetzner server running Cloudron on Ubuntu, at https://my.digitalcommons.coop/
 
 This currently runs VMs for:
@@ -65,26 +65,26 @@ The Cloudron server provides us with:
 - Backups for the above.
 - Assorted other apps which we are evaluating or don't yet use very seriously.
 
-**A BitWarden account**
+#### A BitWarden account
 At https://bitwarden.com - used as a people-friendly password store
 
-**A Landex Cloudways server**
+#### A Landex Cloudways server
 Hosting for the old Land Explorer land registry borders microservice (to be retired soon.)
 
-**Google Apps**
+#### Google Apps
 A Google Apps account which we use for sharing files and documents.
 
-**Limesurvey**
- A LimeSurvey account on which the questionnaires gathering information for several of the earliest MykoMap sites. This is a source of initiatives data for the "Sausage Machine"
+#### Limesurvey
+A LimeSurvey account on which the questionnaires gathering information for several of the earliest MykoMap sites. This is a source of initiatives data for the "Sausage Machine"
 
 ### SEA 
 We are still using some services hosted by our founders Solidarity Economy Association.
 
-**On WebArchitects**
+#### On WebArchitects
  - wp-1 and wp-2 - wordpress installatons on the slidarityeconomy.coop domain
  - A zonefile service for the solidarityeconomy.coop domain
 
-**Scaleway**
+#### Scaleway
 - Two Scaleway VMs running Ubuntu Linux, dev-1 and prod-1
 - These are our build and deploy servers.
 - They are essentially identical, but one is for production services, the other for development.
