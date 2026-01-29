@@ -17,7 +17,11 @@ We're a community of developers, designers, storytellers and organisers working 
 
 ## 🚀 Our Projects
 
-Our core projects are LandExplorer and MykoMaps.
+Our core projects are <a href="https://digitalcommons.coop/land-explorer/">Land Explorer</a> and <a href="https://digitalcommons.coop/mykomaps/">MykoMaps</a>.
+
+Land Explorer makes land data open, accessible, and actionable. It’s a free mapping tool that helps communities, campaigners, and cooperatives understand who owns land, plan projects, and build campaigns for change.
+
+Mykomaps makes the work of cooperatives and community organisations visible by helping them connect, collaborate, and drive collective change.
 
 ## 💡 Get Involved
 
@@ -55,6 +59,7 @@ Each project has its own contributing guidelines, but here are some general prin
 - **LinkedIn** - https://www.linkedin.com/company/digital-commons-cooperative?originalSubdomain=uk
 - **Bluesky** - https://bsky.app/profile/digitalcommons.bsky.social
 - **Maestedon** - https://social.coop/@DigitalCommons
+- **Instagram** - https://www.instagram.com/digitalcommonscoop/
 
 ## 📜 License
 
