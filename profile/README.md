@@ -32,7 +32,7 @@ We're a community of developers, designers, storytellers and organisers working 
 
 Our development process is grounded in collaboration, adaptability, and accountability to social movements. Each phase - Inception, Design, Implementation, Release and Review - is designed to ensure that the technology we create is purposeful, impactful, and aligned with the needs of those we serve.
 
-## Our Approach
+### Our Approach
 
 At Digital Commons, we build technology that strengthens social movements. Our tools are designed with, not for, the people driving change. 
 
