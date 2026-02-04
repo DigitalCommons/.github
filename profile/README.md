@@ -10,10 +10,33 @@ We're a community of developers, designers, storytellers and organisers working 
 
 ### Our Values
 
-- **Open by Default** - We believe in transparency and open source as the foundation for trustworthy technology
-- **Democratic Governance** - Every contributor has a voice in our direction
-- **Shared Ownership** - We build together, we benefit together
-- **Community First** - Technology should serve people and communities, not the other way around
+1. Technology as Tools for Justice: intentionally designed to further the goals of justice, solidarity, and collective liberation.
+
+2. Community-Led Design: movements for social and ecological justice lead; technology follows.
+
+3. Commons over Commodification: open source, shared, and collectively owned; stewarded for the public good.
+
+4. Decentralised Power: technology that is interoperable, transparent, and free from corporate or state control.
+
+5. Solidarity in Action: technology grounded in solidarity, not saviourism. We work with humility, listening deeply and acting in partnership.
+
+6. Resilience and Sustainability: technology that is maintainable, accessible, and adaptive to the changing needs of movements over time.
+
+7. Ethical Innovation: technology guided by values, not markets, and rigorous reflection on ethical implications.
+
+8. Radical Transparency: open processes and shared knowledge, accountable to the communities we serve.
+
+9. Acknowledging Complexity: technology that supports rather than simplifies nuance.
+
+10. Hope and Imagination:  technology that is helping to create the conditions for regeneration, liberation and joy.
+
+Our development process is grounded in collaboration, adaptability, and accountability to social movements. Each phase - Inception, Design, Implementation, Release and Review - is designed to ensure that the technology we create is purposeful, impactful, and aligned with the needs of those we serve.
+
+## Our Approach
+
+At Digital Commons, we build technology that strengthens social movements. Our tools are designed with, not for, the people driving change. 
+
+We work alongside movements at every stage, from understanding their needs to co-designing, developing, and refining the tools that help them organise, share knowledge, and build collective power. Reach out to work with us!
 
 ## 🚀 Our Projects
 
