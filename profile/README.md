@@ -52,7 +52,7 @@ We welcome contributors of all skill levels and backgrounds! Here's how you can 
 
 ### For Developers
 
-- **Browse Issues** - Check out issues tagged `good-first-issue` across our repositories
+- **Browse Issues** - Check out issues tagged `good-first-issue` across our repositories and check out the [Welcome OSS Contributors](https://github.com/orgs/DigitalCommons/projects/14/views/1) board.
 - **Submit PRs** - See something that could be better? We'd love your contribution
 - **Review Code** - Help us maintain quality by reviewing pull requests
 
@@ -68,10 +68,9 @@ We welcome contributors of all skill levels and backgrounds! Here's how you can 
 
 Each project has its own contributing guidelines, but here are some general principles:
 
-- Be respectful and inclusive in all interactions
-- Follow the code of conduct
-- Write clear commit messages and PR descriptions
-- Test your changes before submitting
+- Be kind, respectful and inclusive in all interactions
+- Write clear commit messages and PR descriptions. Use templates where they exist and look at other PRs in the repo for guidance.
+- Test your changes before submitting and add testing notes to your PR.
 - Ask questions if you're unsure - we're here to help!
 
 ## 📫 Connect With Us
@@ -94,7 +93,7 @@ To everyone who contributes code, documentation, ideas, and enthusiasm - thank y
 
 ---
 
-**Ready to contribute?** Start by exploring our repositories and joining the conversation. Every contribution, no matter how small, makes a difference.
+**Ready to contribute?** Start by exploring our [Welcome board](https://github.com/orgs/DigitalCommons/projects/14/views/1), reading repository READMEs and Wikis and joining the conversation on [Element]([url](https://app.element.io/#digitalcommons.coop)). Every contribution, no matter how small, makes a difference.
 
 *DigitalCommon - Technology for the common good*
 <!--
