@@ -40,7 +40,7 @@ We work alongside movements at every stage, from understanding their needs to co
 
 ## 🚀 Our Projects
 
-Our core projects are <a href="https://digitalcommons.coop/land-explorer/">Land Explorer</a> and <a href="https://digitalcommons.coop/mykomaps/">MykoMaps</a>.
+Our core projects are <a href="https://landexplorer.coop">Land Explorer</a> and <a href="https://digitalcommons.coop/mykomaps/">MykoMaps</a>.
 
 Land Explorer makes land data open, accessible, and actionable. It’s a free mapping tool that helps communities, campaigners, and cooperatives understand who owns land, plan projects, and build campaigns for change.
 
